@@ -1,17 +1,13 @@
-# SuperherosOfFantasy
-Repository for the by Laws of the Superheros of Fantasy Dynasty League
-
-
-Superheroes of Fantasy Football
+#Superheroes of Fantasy Football
 (Tentative name and theme)
 
 
 
-Payment and Payouts
+##Payment and Payouts
 Given the large divergence from standard league play, this league will start at a $25 year dues, but in future years (post year 2) unanimous vote can modify the yearly dues. At start up each team will need to pay for the first two (2) years of dues in order to maintain insurance against a team needing to leave the league and to provide a fund for which to provide new owners an incentive to take over teams UNM. If the dues are increased the following year dues will require an additional payment of the difference between the old and the new dues to insure the “back up fund” remains solvent.
 
 
-Proposed Payout
+###Proposed Payout
 (Note: $300 will be collected each year, MFL feels are $70 per year, so there will be $230 in the pool)
 
 1st: :$120
@@ -19,7 +15,7 @@ Proposed Payout
 3rd/4th: $25
 
 
-Scoring
+##Scoring
 
 3 points per passing TD
 -2 points per Int
@@ -36,22 +32,22 @@ Scoring
 0.1 points per receiving yards
 
 
-QBs
+###QBs
 1 pt bonus every 150 yards passing
-RBs
+###RBs
 0.5 points per reception
 2 pt bonus every 50 yards
-WRs
+###WRs
 1 point per reception
 2 pt bonus every 75 yards
-TEs
+###TEs
 1.8 points per reception
 2 pt bonus every 40 yards
 
 
 
 
-Divisions and Play-offs
+##Divisions and Play-offs
 
 3 divisions of 4
 3 division winners make the play-offs and top 2 records have bye (1st tie breaker is strength of schedule, 2nd tie breaker is points for)
@@ -64,7 +60,7 @@ Play-offs start week 13 with a two week championship in weeks 15 and 16.
 The divisions will be themed Marvel, DC, and “Everyone Else” (Image, Dark Horse, etc)
 Please name your teams appropriately for your division and include a team image.
 
-Divisional Re-allignment
+###Divisional Re-allignment
 
 Re-allignment will take place every 2 years and be based on the statistics of the teams over the previous 2 years.
 
@@ -77,7 +73,7 @@ The remaining teams with the highest total points scored will be placed in divis
 The remaining three teams will be placed randomly.
 
 
-The Rookie Draft
+##The Rookie Draft
 
 The Rookie draft will be 4 rounds.
 
@@ -89,7 +85,7 @@ Rounds 1 and 2 of the rookie draft will take place between 1 and 3 weeks after t
 
 Rounds 3 and 4 will take place after week 2 of the NFL pre-season
 
-Rookie Draft Order
+###Rookie Draft Order
 
 Non-play off teams will be awarded the same draft position in each round by a “Points Race”.
 
@@ -109,7 +105,7 @@ Pick 7 is awarded to the winner of the 5th/6th match (this match spans weeks 14 
 
 There will be a "Toilet Bowl" held during the weeks of the standard play offs, the winner of this bracket will be awarded pick 2.07, pushing the rest of the 2nd round back by 1 pick. Seeding for the toilet bowl will be in reverse order of potential points with a tie breaker of lowest points against with the bottom two teams getting byes in the toilet bowl.
 
-Roster requirements
+##Roster requirements
 
 QB
 RB
@@ -127,7 +123,7 @@ FLEX
 5 IR
 
 
-Roster Expansion/Contraction
+##Roster Expansion/Contraction
 
 Just prior to the rookie draft each year, rosters will expand from 24 players to 30 players.
 Rosters will contract 1 player at the end of each of the first 3 weeks of the preseason and 3 players after week 4 of the preseason has concluded.
@@ -139,7 +135,7 @@ If the commissioner issues a "warning" to a team that they have not adjusted the
 
 
 
-Waivers
+##Waivers
 
 During the off season waivers will run on Wednesday at 10 am EST and be determined by Blind Bid (FAAB). Off-season Budget is $100
 
@@ -149,7 +145,7 @@ During the season waivers will run Tuesday through Saturday at 10 am EST by Blin
 
 
 
-Taxi Poaching Rules
+##Taxi Poaching Rules
 
 The motivation is to encourage teams not to "hide" taxi eligible players on their taxi squads. The spirit of the taxi squad is to allow drafting of players who are less likely to be productive early and maintain their rights until it is more clear that they are either rosterable or not.
 
@@ -173,7 +169,7 @@ The team claiming the player has the named player put on their active roster. Th
 
 
 
-Weekly match-ups
+##Weekly match-ups
 
 Each team will play 2 other teams per week over the first 12 weeks of the NFL season.
 Each team will play every team in their division three times and each other team in the league at least once (Note: you will play every non-division team aside from one, determined randomly, twice.)
@@ -181,7 +177,7 @@ Each team will play every team in their division three times and each other team
 
 
 
-Teams "Under New Management"
+##Teams "Under New Management"
 
 PLEASE don't let your team enter this state.
 If there is an unfortunate situation where an owner is asked to leave the league, their team will be placed "Under New Management" (UNM).
@@ -193,7 +189,7 @@ When a new owner is found they will not pay dues for the first full year they pa
 
 
 
-Tanking
+##Tanking
 
 Please set your line-ups in a reasonable manner.
 
@@ -202,14 +198,14 @@ If an owner fails to set a lineup, they will receive a warning. I know this isn'
 
 
 
-Collusion
+##Collusion
 
 Don't do it, just don't. If I need to investigate this, we have a pretty big problem and likely all the teams involved will be immediately placed UNM. Collusion is a big deal.
 
 
 
 
-Trading
+##Trading
 
 Trading is encouraged, there are no reviews or vetoes or trade deadline.
 
@@ -224,7 +220,7 @@ If there are some really lopsided trades, I may reach out to the teams involved 
 
 
 
-Start Up Draft
+##Start Up Draft
 
 The Start Up draft will be slow auction style held prior to the NFL draft and will include rookie picks as auctionable assets.
 
@@ -234,12 +230,12 @@ Each team will start with $250 in auction funds, all bids will be in whole dolla
 
 
 
-Off season rule changes
+##Off season rule changes
 There will be a period of time of time between the league championship and the second week of January where each owner will be able to submit proposed rule changes via the league message board. Proposed rule changes will need at least two other teams to confirm the nomination before a poll will be put on the league page, most rule changes will require 75% of the league to vote for the change. League members can discuss and ask for clarifications before and after confirmations are issued, if there are no ongoing discussions or clarifications then a poll will be posted 2 days after the 2nd confirmation. If there are ongoing discussions or clarifications, I will do my best to monitor, but I will need confirmations posted that clarifications and discussions are finalized as I don’t want to present a vote to the league prematurely.
 
 Polls will last for 2 weeks or until it succeeds or fails (8 positive votes or 5 negative votes will end the poll). If there is a lack of participation, please just vote on the polls, then at the 2 week mark the percentage will be taken of the votes collected.
 
 
-Vote Requirements
+###Vote Requirements
 At this time, I would suggest that the only votes that require more than 75% (8/12) votes to pass are league dues, which requires a unanimous vote (12/12) and actually requires everyone to vote. But I will take suggestions to add to this list prior to league start and I will amend this section.
 
