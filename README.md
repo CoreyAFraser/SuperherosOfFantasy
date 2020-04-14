@@ -67,6 +67,7 @@ Given the large divergence from standard league play, this league will start at 
 ## Divisions and Play-offs
 
 3 divisions of 4
+
 3 division winners make the play-offs and top 2 records have bye (1st tie breaker is strength of schedule, 2nd tie breaker is points for)
 Best record for non-division winner makes the play-offs (4th seed)
 Most remaining VP (5th seed)
