@@ -34,32 +34,32 @@ Given the large divergence from standard league play, this league will start at 
 <a name="score"></a>
 ## Scoring
 
-3 points per passing TD
--2 points per Int
--2 points per Fumble
-0.15 points per carry
-0.5 points per 1st down
-4 points per rushing TD
-4 points per receiving TD
-2 points per punt return TD
-2 points per kick-off return TD
-2 points per passing/receiving/rushing 2 pt conversion
-0.05 points per passing yards
-0.1 points per rushing yards
-0.1 points per receiving yards
+- 3 points per passing TD
+- -2 points per Int
+- -2 points per Fumble
+- 0.15 points per carry
+- 0.5 points per 1st down
+- 4 points per rushing TD
+- 4 points per receiving TD
+- 2 points per punt return TD
+- 2 points per kick-off return TD
+- 2 points per passing/receiving/rushing 2 pt conversion
+- 0.05 points per passing yards
+- 0.1 points per rushing yards
+- 0.1 points per receiving yards
 
 
-### QBs
-1 pt bonus every 150 yards passing
-### RBs
-0.5 points per reception
-2 pt bonus every 50 yards
-### WRs
-1 point per reception
-2 pt bonus every 75 yards
-### TEs
-1.8 points per reception
-2 pt bonus every 40 yards
+#### QBs
+- 1 pt bonus every 150 yards passing
+#### RBs
+- 0.5 points per reception
+- 2 pt bonus every 50 yards
+#### WRs
+- 1 point per reception
+- 2 pt bonus every 75 yards
+#### TEs
+- 1.8 points per reception
+- 2 pt bonus every 40 yards
 
 
 
@@ -69,8 +69,11 @@ Given the large divergence from standard league play, this league will start at 
 3 divisions of 4
 
 3 division winners make the play-offs and top 2 records have bye (1st tie breaker is strength of schedule, 2nd tie breaker is points for)
+
 Best record for non-division winner makes the play-offs (4th seed)
+
 Most remaining VP (5th seed)
+
 Highest scoring remaining team makes the play-offs (6th seed)
 
 Play-offs start week 13 with a two week championship in weeks 15 and 16.
@@ -114,12 +117,12 @@ Starting in the week after a team has been mathematically eliminated* each weekl
 
 
 Play off teams draft picks will be awarded in the following way:
-Pick 12 is awarded to the champion (Championship is weeks 15 and 16)
-Pick 11 is awarded to the runner up (Championship is weeks 15 and 16)
-Pick 10 is awarded to the loser of the 3rd/4th game (this match spans weeks 15 and 16)
-Pick 9 is awarded to the winner of the 3rd/4th game (this match spans weeks 15 and 16)
-Pick 8 is awarded to the loser of the 5th/6th match (this match spans weeks 14 and 15)
-Pick 7 is awarded to the winner of the 5th/6th match (this match spans weeks 14 and 15)
+- Pick 12 is awarded to the champion (Championship is weeks 15 and 16)
+- Pick 11 is awarded to the runner up (Championship is weeks 15 and 16)
+- Pick 10 is awarded to the loser of the 3rd/4th game (this match spans weeks 15 and 16)
+- Pick 9 is awarded to the winner of the 3rd/4th game (this match spans weeks 15 and 16)
+- Pick 8 is awarded to the loser of the 5th/6th match (this match spans weeks 14 and 15)
+- Pick 7 is awarded to the winner of the 5th/6th match (this match spans weeks 14 and 15)
 
 There will be a "Toilet Bowl" held during the weeks of the standard play offs, the winner of this bracket will be awarded pick 2.07, pushing the rest of the 2nd round back by 1 pick. Seeding for the toilet bowl will be in reverse order of potential points with a tie breaker of lowest points against with the bottom two teams getting byes in the toilet bowl.
 
@@ -127,25 +130,26 @@ There will be a "Toilet Bowl" held during the weeks of the standard play offs, t
 <a name="roster1"></a>
 ## Roster requirements
 
-QB
-RB
-RB
-WR
-WR
-WR
-TE
-SF
-FLEX
-FLEX
+- QB
+- RB
+- RB
+- WR
+- WR
+- WR
+- TE
+- SF
+- FLEX
+- FLEX
 
-24 roster spots
-6 Taxi (3 year limit)
-5 IR
+- 24 roster spots
+- 6 Taxi (3 year limit)
+- 5 IR
 
 <a name="roster2"></a>
 ## Roster Expansion/Contraction
 
 Just prior to the rookie draft each year, rosters will expand from 24 players to 30 players.
+
 Rosters will contract 1 player at the end of each of the first 3 weeks of the preseason and 3 players after week 4 of the preseason has concluded.
 
 
@@ -166,10 +170,10 @@ During the season waivers will run Tuesday through Saturday at 10 am EST by Blin
 
 The motivation is to encourage teams not to "hide" taxi eligible players on their taxi squads. The spirit of the taxi squad is to allow drafting of players who are less likely to be productive early and maintain their rights until it is more clear that they are either rosterable or not.
 
-Each team has 1 successful claim allowed per year
-Each team has one veto without penalty per year
-Each team may only have one active claim
-Each team may only have one active claim against them (If it is determined that 2 teams both make a claim against the same player within a short window of time eg 5 mins or less, the team with the lower standing will be awarded the claim)
+- Each team has 1 successful claim allowed per year
+- Each team has one veto without penalty per year
+- Each team may only have one active claim
+- Each team may only have one active claim against them (If it is determined that 2 teams both make a claim against the same player within a short window of time eg 5 mins or less, the team with the lower standing will be awarded the claim)
 
 To make a poaching claim, post in the group chat/league chat/email the league that you are making a claim. Name the player and the team.
 
@@ -189,6 +193,7 @@ The team claiming the player has the named player put on their active roster. Th
 ## Weekly match-ups
 
 Each team will play 2 other teams per week over the first 12 weeks of the NFL season.
+
 Each team will play every team in their division three times and each other team in the league at least once (Note: you will play every non-division team aside from one, determined randomly, twice.)
 
 
@@ -197,9 +202,13 @@ Each team will play every team in their division three times and each other team
 ## Teams "Under New Management"
 
 PLEASE don't let your team enter this state.
+
 If there is an unfortunate situation where an owner is asked to leave the league, their team will be placed "Under New Management" (UNM).
+
 This team won't trade or participate in waivers (unless they need a player to fill out a starting line up, they will always bid zero and drop the player lowest on DLFs most recent SF ADP)
+
 Their line up will be set based on MFL's projections.
+
 While any team is classified UNM it would be appreciated if league members participate in searching for a new and active owner.
 When a new owner is found they will not pay dues for the first full year they participate.
 
