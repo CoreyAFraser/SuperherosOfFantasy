@@ -2,35 +2,21 @@
 (Tentative name and theme)
 
 
-[Payments and Payouts](#pay)
-
-[Scoring](#score)
-
-[Divisions and Play-offs](#divs)
-
-[The Rookie Draft](#rookie)
-
-[Roster Requirements](#roster1)
-
-[Roster Expansion/Contraction](#roster2)
-
-[Waviers](#waivers)
-
-[Taxi Poaching](#poach)
-
-[Weekly Matchups](#matchups)
-
-[Teams "Under New Management](#unm)
-
-[Tanking](#tank)
-
-[Collusion](#collusion)
-
-[Trading](#trading)
-
-[Start Up Draft](#startup)
-
-[Off Season Rule Changes](#rules)
+1. [Payments and Payouts](#pay)
+2. [Scoring](#score)
+3. [Divisions and Play-offs](#divs)
+4. [The Rookie Draft](#rookie)
+5. [Roster Requirements](#roster1)
+6. [Roster Expansion/Contraction](#roster2)
+7. [Waviers](#waivers)
+8. [Taxi Poaching](#poach)
+9. [Weekly Matchups](#matchups)
+10. [Teams "Under New Management](#unm)
+11. [Tanking](#tank)
+12. [Collusion](#collusion)
+13. [Trading](#trading)
+14. [Start Up Draft](#startup)
+15. [Off Season Rule Changes](#rules)
 
 
 <a name="pay"></a>
