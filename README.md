@@ -77,6 +77,9 @@ Play-offs start week 13 with a two week championship in weeks 15 and 16.
 The divisions will be themed Marvel, DC, and “Everyone Else” (Image, Dark Horse, etc)
 Please name your teams appropriately for your division and include a team image.
 
+* Edit (4/14/2020)
+** Clarification: VP is Victory Points. Your team earns one VP for each win it earns and will earn up to one additional VP per week for having a top 6 score. If there is a tie for 6th, both teams will receive a VP.
+
 ### Divisional Re-allignment
 
 Re-allignment will take place every 2 years and be based on the statistics of the teams over the previous 2 years.
@@ -138,7 +141,9 @@ FLEX
 FLEX
 
 24 roster spots
+
 6 Taxi (3 year limit)
+
 5 IR
 
 <a name="roster2"></a>
@@ -181,6 +186,10 @@ The team now has 24 hours (exceptions can be made for extenuating circumstances)
 If none of these are chosen in the 24 hour time limit, then the commissioner will process the claim. One exception is that if both teams make a request for additional time to negotiate a trade, in this case an additional 24 hours will be granted.
 
 The team claiming the player has the named player put on their active roster. The team losing the claimed player is awarded a draft pick from the claiming team in the same round that the player was originally taken.
+
+* Edit (4/14/2020)
+** Clarification: A successful poaching claim is one that results in the claiming team acquiring the player either via a negotiated trade or the standard poaching process
+** Note: If an owner is going to be unavailable for a period of time (Business Trip, Vacation, etc) please inform the league ahead of time and poaching against your team will be suspended until you are again available. Please don't overuse this clause. If its determined that someone is using this clause to avoid the poaching rules a warning will be issued.
 
 
 
