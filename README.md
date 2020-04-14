@@ -130,20 +130,20 @@ There will be a "Toilet Bowl" held during the weeks of the standard play offs, t
 <a name="roster1"></a>
 ## Roster requirements
 
-- QB
-- RB
-- RB
-- WR
-- WR
-- WR
-- TE
-- SF
-- FLEX
-- FLEX
+QB..
+RB..
+RB..
+WR..
+WR..
+WR..
+TE..
+SF..
+FLEX..
+FLEX..
 
-- 24 roster spots
-- 6 Taxi (3 year limit)
-- 5 IR
+24 roster spots..
+6 Taxi (3 year limit)..
+5 IR..
 
 <a name="roster2"></a>
 ## Roster Expansion/Contraction
