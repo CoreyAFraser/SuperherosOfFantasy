@@ -2,7 +2,38 @@
 (Tentative name and theme)
 
 
+[Payments and Payouts](#pay)
 
+[Scoring](#score)
+
+[Divisions and Play-offs](#divs)
+
+[The Rookie Draft](#rookie)
+
+[Roster Requirements](#roster1)
+
+[Roster Expansion/Contraction](#roster2)
+
+[Waviers](#waivers)
+
+[Taxi Poaching](#poach)
+
+[Weekly Matchups](#matchups)
+
+[Teams "Under New Management](#unm)
+
+[Tanking](#tank)
+
+[Collusion](#collusion)
+
+[Trading](#trading)
+
+[Start Up Draft](#startup)
+
+[Off Season Rule Changes](#rules)
+
+
+<a name="pay"></a>
 ## Payment and Payouts
 Given the large divergence from standard league play, this league will start at a $25 year dues, but in future years (post year 2) unanimous vote can modify the yearly dues. At start up each team will need to pay for the first two (2) years of dues in order to maintain insurance against a team needing to leave the league and to provide a fund for which to provide new owners an incentive to take over teams UNM. If the dues are increased the following year dues will require an additional payment of the difference between the old and the new dues to insure the “back up fund” remains solvent.
 
@@ -14,7 +45,7 @@ Given the large divergence from standard league play, this league will start at 
 2nd: $60
 3rd/4th: $25
 
-
+<a name="score"></a>
 ## Scoring
 
 3 points per passing TD
@@ -46,7 +77,7 @@ Given the large divergence from standard league play, this league will start at 
 
 
 
-
+<a name="divs"></a>
 ## Divisions and Play-offs
 
 3 divisions of 4
@@ -72,7 +103,7 @@ The remaining teams with the highest total points scored will be placed in divis
 
 The remaining three teams will be placed randomly.
 
-
+<a name="rookie"></a>
 ## The Rookie Draft
 
 The Rookie draft will be 4 rounds.
@@ -105,6 +136,8 @@ Pick 7 is awarded to the winner of the 5th/6th match (this match spans weeks 14 
 
 There will be a "Toilet Bowl" held during the weeks of the standard play offs, the winner of this bracket will be awarded pick 2.07, pushing the rest of the 2nd round back by 1 pick. Seeding for the toilet bowl will be in reverse order of potential points with a tie breaker of lowest points against with the bottom two teams getting byes in the toilet bowl.
 
+
+<a name="roster1"></a>
 ## Roster requirements
 
 QB
@@ -122,7 +155,7 @@ FLEX
 6 Taxi (3 year limit)
 5 IR
 
-
+<a name="roster2"></a>
 ## Roster Expansion/Contraction
 
 Just prior to the rookie draft each year, rosters will expand from 24 players to 30 players.
@@ -133,8 +166,7 @@ If the commissioner issues a "warning" to a team that they have not adjusted the
 
 
 
-
-
+<a name="waivers"></a>
 ## Waivers
 
 During the off season waivers will run on Wednesday at 10 am EST and be determined by Blind Bid (FAAB). Off-season Budget is $100
@@ -142,9 +174,7 @@ During the off season waivers will run on Wednesday at 10 am EST and be determin
 During the season waivers will run Tuesday through Saturday at 10 am EST by Blind Bid. First Come First Serve (FCFS) FAs will be available post the Saturday waivers through the end of Monday Night Football. Players who are dropped will be available during the next waivers. In Season Budget is $600
 
 
-
-
-
+<a name="poach"></a>
 ## Taxi Poaching Rules
 
 The motivation is to encourage teams not to "hide" taxi eligible players on their taxi squads. The spirit of the taxi squad is to allow drafting of players who are less likely to be productive early and maintain their rights until it is more clear that they are either rosterable or not.
@@ -168,7 +198,7 @@ The team claiming the player has the named player put on their active roster. Th
 
 
 
-
+<a name="matchups"></a>
 ## Weekly match-ups
 
 Each team will play 2 other teams per week over the first 12 weeks of the NFL season.
@@ -176,7 +206,7 @@ Each team will play every team in their division three times and each other team
 
 
 
-
+<a name="unm"></a>
 ## Teams "Under New Management"
 
 PLEASE don't let your team enter this state.
@@ -188,7 +218,7 @@ When a new owner is found they will not pay dues for the first full year they pa
 
 
 
-
+<a name="tank"></a>
 ## Tanking
 
 Please set your line-ups in a reasonable manner.
@@ -197,14 +227,14 @@ If an owner fails to set a lineup, they will receive a warning. I know this isn'
 
 
 
-
+<a name="collusion"></a>
 ## Collusion
 
 Don't do it, just don't. If I need to investigate this, we have a pretty big problem and likely all the teams involved will be immediately placed UNM. Collusion is a big deal.
 
 
 
-
+<a name="trading"></a>
 ## Trading
 
 Trading is encouraged, there are no reviews or vetoes or trade deadline.
@@ -219,7 +249,7 @@ However if someone makes an accusation of collusion (please don't do this unless
 If there are some really lopsided trades, I may reach out to the teams involved to find out what happened, mis-clicks happen. If both teams don't believe there was a mistake no action will be taken.
 
 
-
+<a name="startup"></a>
 ## Start Up Draft
 
 The Start Up draft will be slow auction style held prior to the NFL draft and will include rookie picks as auctionable assets.
@@ -229,7 +259,7 @@ Every team will have 3 available active nominations until the first 120 players 
 Each team will start with $250 in auction funds, all bids will be in whole dollar amounts and the minimum bid and increment will be $1. Remaining auction funds will be added to your waiver funds. Trades are not allowed during the start up auction.
 
 
-
+<a name="rules"></a>
 ## Off season rule changes
 There will be a period of time of time between the league championship and the second week of January where each owner will be able to submit proposed rule changes via the league message board. Proposed rule changes will need at least two other teams to confirm the nomination before a poll will be put on the league page, most rule changes will require 75% of the league to vote for the change. League members can discuss and ask for clarifications before and after confirmations are issued, if there are no ongoing discussions or clarifications then a poll will be posted 2 days after the 2nd confirmation. If there are ongoing discussions or clarifications, I will do my best to monitor, but I will need confirmations posted that clarifications and discussions are finalized as I don’t want to present a vote to the league prematurely.
 
